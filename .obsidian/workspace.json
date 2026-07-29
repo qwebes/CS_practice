@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "fd540794e913052f",
+    "type": "split",
+    "children": [
+      {
+        "id": "99bf9772b57dcc1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a811d8c56fa72620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OWASP. A01. Hijack session/OWASP A01 - Broken Access Control (Session Hijacking).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OWASP A01 - Broken Access Control (Session Hijacking)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc82e095f1030b06",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e4acb547c362dca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11ef2cbf2f0d5bec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловий менеджер"
+            }
+          },
+          {
+            "id": "91e34224ab776388",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Основні",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Пошук"
+            }
+          },
+          {
+            "id": "c98f2042a494929a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15cc360dbb265d6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "01161c4a4efc6ce6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e0ecee9df1edf71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OWASP. A01. Hijack session/OWASP A01 - Broken Access Control (Session Hijacking).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Зворотні посилання для OWASP A01 - Broken Access Control (Session Hijacking)"
+            }
+          },
+          {
+            "id": "12589270ca92f323",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OWASP. A01. Hijack session/OWASP A01 - Broken Access Control (Session Hijacking).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Вихідні посилання з OWASP A01 - Broken Access Control (Session Hijacking)"
+            }
+          },
+          {
+            "id": "19b1632c06800097",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Мітки"
+            }
+          },
+          {
+            "id": "4384b3f743fd6def",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Всі властивості"
+            }
+          },
+          {
+            "id": "9fabf571ebcb78c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OWASP. A01. Hijack session/OWASP A01 - Broken Access Control (Session Hijacking).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Вміст OWASP A01 - Broken Access Control (Session Hijacking)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "bases:Створити нову базу": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a811d8c56fa72620",
+  "lastOpenFiles": [
+    "OWASP A01 - Broken Access Control (Session Hijacking)-1785365349325.webp",
+    "OWASP A01 - Broken Access Control (Session Hijacking)-1785365302089.webp",
+    "OWASP A01 - Broken Access Control (Session Hijacking)-1785364595670.webp",
+    "OWASP A01 - Broken Access Control (Session Hijacking)-1785364211127.webp",
+    "OWASP A01 - Broken Access Control (Session Hijacking)-1785363848669.webp",
+    "OWASP A01 - Broken Access Control (Session Hijacking)-1785363595948.webp",
+    "OWASP A01 - Broken Access Control (Session Hijacking)-1785363517720.webp",
+    "OWASP A01 - Broken Access Control (Session Hijacking)-1785363195505.webp",
+    "OWASP A01 - Broken Access Control (Session Hijacking)-1785362921495.webp",
+    "OWASP A01 - Broken Access Control (Session Hijacking)-1785361535437.webp",
+    "OWASP A01 - Broken Access Control (Session Hijacking)-1785361471940.webp",
+    "OWASP. A01. Hijack session/OWASP A01 - Broken Access Control (Session Hijacking).md",
+    "OWASP. A01. Hijack session"
+  ]
+}
