@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OWASP. A01. Hijack session/OWASP A01 - Broken Access Control (Session Hijacking).md",
+                "file": "OWASP TOP 10/OWASP. A01. Hijack session/OWASP A01 - Broken Access Control (Session Hijacking).md",
                 "mode": "source",
                 "source": false
               },
@@ -184,27 +184,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a811d8c56fa72620",
+  "active": "11ef2cbf2f0d5bec",
   "lastOpenFiles": [
-    "OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785372345514.webp",
-    "OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics.md",
-    "OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785395047188.webp",
-    "OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785394978378.webp",
-    "OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785394589793.webp",
-    "OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785394581038.webp",
-    "OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785393443508.webp",
-    "OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785393206353.webp",
-    "OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785393176115.webp",
-    "OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785392809537.webp",
-    "OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785392655024.webp",
-    "OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785392643765.webp",
-    "OWASP.A02.Cryptorahpic Failures",
-    "OWASP.A03.Injection/OWASP.A03.Injection.SQL Injection(Intro).md",
+    "OWASP TOP 10",
+    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785372345514.webp",
+    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics.md",
+    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785395047188.webp",
+    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785394978378.webp",
+    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785394589793.webp",
+    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785394581038.webp",
+    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785393443508.webp",
+    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785393206353.webp",
+    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785393176115.webp",
+    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785392809537.webp",
+    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785392655024.webp",
+    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures",
+    "OWASP TOP 10/OWASP.A03.Injection/OWASP.A03.Injection.SQL Injection(Intro).md",
     "README.md",
-    "OWASP.A01.IDOR/OWASP.A01.IDOR.md",
-    "OWASP.A03.Injection",
-    "OWASP. A01. Hijack session/OWASP A01 - Broken Access Control (Session Hijacking).md",
-    "OWASP.A01.IDOR",
-    "OWASP. A01. Hijack session"
+    "OWASP TOP 10/OWASP.A01.IDOR/OWASP.A01.IDOR.md",
+    "OWASP TOP 10/OWASP.A03.Injection",
+    "OWASP TOP 10/OWASP. A01. Hijack session/OWASP A01 - Broken Access Control (Session Hijacking).md",
+    "OWASP TOP 10/OWASP.A01.IDOR",
+    "OWASP TOP 10/OWASP. A01. Hijack session"
   ]
 }
