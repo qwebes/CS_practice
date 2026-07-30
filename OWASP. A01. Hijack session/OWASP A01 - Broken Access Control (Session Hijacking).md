@@ -83,5 +83,7 @@
 
 Натискаємо **Start attack**
 ![[OWASP A01 - Broken Access Control (Session Hijacking)-1785365302089.webp]]
+
 Переходимо назад у браузер, бачимо, що завдання виконане
+
 ![[OWASP A01 - Broken Access Control (Session Hijacking)-1785365349325.webp]]
