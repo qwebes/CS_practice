@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Juice Shop/Juice photos/OWASP Juice Shop-1785407871231.webp"
+                "file": "CTF VM DeathNote/Death photos/DeathNote.-1785441002675.webp"
               },
               "icon": "lucide-image",
-              "title": "OWASP Juice Shop-1785407871231"
+              "title": "DeathNote.-1785441002675"
             }
           }
         ]
@@ -184,19 +184,22 @@
   },
   "active": "11ef2cbf2f0d5bec",
   "lastOpenFiles": [
+    "CTF VM DeathNote/DeathNote..md",
+    "CTF VM DeathNote/Death photos",
+    "CTF VM DeathNote/Death photos/DeathNote.-1785441002675.webp",
+    "CTF VM DeathNote/Death photos/DeathNote.-1785440935730.webp",
+    "CTF VM DeathNote/Death photos/DeathNote.-1785440894246.webp",
+    "CTF VM DeathNote/Death photos/DeathNote.-1785440808467.webp",
+    "CTF VM DeathNote/Death photos/DeathNote.-1785440649719.webp",
+    "CTF VM DeathNote/Death photos/DeathNote.-1785440610811.webp",
+    "CTF VM DeathNote/Death photos/DeathNote.-1785439973163.webp",
+    "CTF VM DeathNote/Death photos/DeathNote.-1785439788195.webp",
+    "CTF VM DeathNote/Death photos/DeathNote.-1785439520106.webp",
+    "CTF VM DeathNote/Death photos/DeathNote.-1785439490341.webp",
+    "CTF VM DeathNote",
     "Juice Shop/OWASP Juice Shop.md",
     "Juice Shop/Juice photos",
     "OWASP TOP 10/OWASP.A03.Injection/OWASP.A03.Injection.SQL Injection(Intro).md",
-    "Juice Shop/Juice photos/OWASP Juice Shop-1785407871231.webp",
-    "Juice Shop/Juice photos/OWASP Juice Shop-1785407540966.webp",
-    "Juice Shop/Juice photos/OWASP Juice Shop-1785407429071.webp",
-    "Juice Shop/Juice photos/OWASP Juice Shop-1785407136738.webp",
-    "Juice Shop/Juice photos/OWASP Juice Shop-1785405822432.webp",
-    "Juice Shop/Juice photos/OWASP Juice Shop-1785405489636.webp",
-    "Juice Shop/Juice photos/OWASP Juice Shop-1785405466773.webp",
-    "Juice Shop/Juice photos/OWASP Juice Shop-1785405311866.webp",
-    "Juice Shop/Juice photos/OWASP Juice Shop-1785405215645.webp",
-    "Juice Shop/Juice photos/OWASP Juice Shop-1785403464066.webp",
     "Juice Shop",
     "OWASP TOP 10/OWASP.A03.Injection/Injection photos",
     "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/Cryptograhpic photos",
@@ -207,8 +210,6 @@
     "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics.md",
     "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures",
     "README.md",
-    "OWASP TOP 10/OWASP.A01.IDOR/OWASP.A01.IDOR.md",
-    "OWASP TOP 10/OWASP.A03.Injection",
-    "OWASP TOP 10/OWASP.A01.IDOR"
+    "OWASP TOP 10/OWASP.A01.IDOR/OWASP.A01.IDOR.md"
   ]
 }
