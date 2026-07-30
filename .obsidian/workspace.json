@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "OWASP TOP 10/OWASP.A03.Injection/Injection photos/OWASP.A03.Injection.SQL Injection(Intro)-1785371793574.webp"
+                "file": "Juice Shop/Juice photos/OWASP Juice Shop-1785407871231.webp"
               },
               "icon": "lucide-image",
-              "title": "OWASP.A03.Injection.SQL Injection(Intro)-1785371793574"
+              "title": "OWASP Juice Shop-1785407871231"
             }
           }
         ]
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 611.5
+    "width": 200
   },
   "right": {
     "id": "15cc360dbb265d6c",
@@ -184,29 +184,31 @@
   },
   "active": "11ef2cbf2f0d5bec",
   "lastOpenFiles": [
-    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/Cryptograhpic photos/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785395047188.webp",
+    "Juice Shop/OWASP Juice Shop.md",
+    "Juice Shop/Juice photos",
+    "OWASP TOP 10/OWASP.A03.Injection/OWASP.A03.Injection.SQL Injection(Intro).md",
+    "Juice Shop/Juice photos/OWASP Juice Shop-1785407871231.webp",
+    "Juice Shop/Juice photos/OWASP Juice Shop-1785407540966.webp",
+    "Juice Shop/Juice photos/OWASP Juice Shop-1785407429071.webp",
+    "Juice Shop/Juice photos/OWASP Juice Shop-1785407136738.webp",
+    "Juice Shop/Juice photos/OWASP Juice Shop-1785405822432.webp",
+    "Juice Shop/Juice photos/OWASP Juice Shop-1785405489636.webp",
+    "Juice Shop/Juice photos/OWASP Juice Shop-1785405466773.webp",
+    "Juice Shop/Juice photos/OWASP Juice Shop-1785405311866.webp",
+    "Juice Shop/Juice photos/OWASP Juice Shop-1785405215645.webp",
+    "Juice Shop/Juice photos/OWASP Juice Shop-1785403464066.webp",
+    "Juice Shop",
     "OWASP TOP 10/OWASP.A03.Injection/Injection photos",
-    "OWASP TOP 10/OWASP.A01.IDOR/IDOR photos/OWASP.A01.IDOR-1785367201392.webp",
     "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/Cryptograhpic photos",
-    "OWASP TOP 10/OWASP. A01. Hijack session/hijack photos/OWASP A01 - Broken Access Control (Session Hijacking)-1785355393717.webp",
     "OWASP TOP 10/OWASP.A01.IDOR/IDOR photos",
-    "OWASP TOP 10/OWASP. A01. Hijack session/hijack photos/OWASP A01 - Broken Access Control (Session Hijacking)-1785355623143.webp",
     "OWASP TOP 10/OWASP. A01. Hijack session/hijack photos",
     "OWASP TOP 10/OWASP. A01. Hijack session/OWASP A01 - Broken Access Control (Session Hijacking).md",
     "OWASP TOP 10",
-    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/Cryptograhpic photos/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785372345514.webp",
     "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics.md",
-    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/Cryptograhpic photos/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785394978378.webp",
-    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/Cryptograhpic photos/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785394589793.webp",
-    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/Cryptograhpic photos/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785394581038.webp",
-    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/Cryptograhpic photos/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785393443508.webp",
-    "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/Cryptograhpic photos/OWASP.A02.Cryptorahpic Failures. Crypto Basics-1785393206353.webp",
     "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures",
-    "OWASP TOP 10/OWASP.A03.Injection/OWASP.A03.Injection.SQL Injection(Intro).md",
     "README.md",
     "OWASP TOP 10/OWASP.A01.IDOR/OWASP.A01.IDOR.md",
     "OWASP TOP 10/OWASP.A03.Injection",
-    "OWASP TOP 10/OWASP.A01.IDOR",
-    "OWASP TOP 10/OWASP. A01. Hijack session"
+    "OWASP TOP 10/OWASP.A01.IDOR"
   ]
 }
