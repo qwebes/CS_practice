@@ -11,14 +11,12 @@
             "id": "7af6e4d9a0e12cb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "C0lddBox/C0lddBox.md",
-                "mode": "source",
-                "source": false
+                "file": "C0lddBox/C0ldd photos/C0lddBox-1785482688957.webp"
               },
-              "icon": "lucide-file",
-              "title": "C0lddBox"
+              "icon": "lucide-image",
+              "title": "C0lddBox-1785482688957"
             }
           }
         ]
@@ -184,21 +182,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7af6e4d9a0e12cb8",
+  "active": "11ef2cbf2f0d5bec",
   "lastOpenFiles": [
-    "C0lddBox-1785482688957.webp",
-    "C0lddBox-1785482503462.webp",
-    "C0lddBox-1785482004878.webp",
-    "C0lddBox-1785481359381.webp",
-    "C0lddBox-1785481284474.webp",
-    "C0lddBox-1785481122254.webp",
-    "C0lddBox-1785480909767.webp",
-    "C0lddBox-1785480817051.webp",
-    "C0lddBox-1785480690720.webp",
-    "C0lddBox-1785480428989.webp",
-    "C0lddBox-1785479830036.webp",
-    "CTF VM DeathNote/DeathNote..md",
     "C0lddBox/C0lddBox.md",
+    "C0lddBox/C0ldd photos",
+    "C0lddBox/C0ldd photos/C0lddBox-1785482688957.webp",
+    "C0lddBox/C0ldd photos/C0lddBox-1785482503462.webp",
+    "C0lddBox/C0ldd photos/C0lddBox-1785482004878.webp",
+    "C0lddBox/C0ldd photos/C0lddBox-1785481359381.webp",
+    "C0lddBox/C0ldd photos/C0lddBox-1785481284474.webp",
+    "C0lddBox/C0ldd photos/C0lddBox-1785481122254.webp",
+    "C0lddBox/C0ldd photos/C0lddBox-1785480909767.webp",
+    "C0lddBox/C0ldd photos/C0lddBox-1785480817051.webp",
+    "C0lddBox/C0ldd photos/C0lddBox-1785480690720.webp",
+    "C0lddBox/C0ldd photos/C0lddBox-1785480428989.webp",
+    "CTF VM DeathNote/DeathNote..md",
     "C0lddBox",
     "CTF VM DeathNote/Death photos",
     "CTF VM DeathNote",
@@ -211,7 +209,6 @@
     "OWASP TOP 10/OWASP.A01.IDOR/IDOR photos",
     "OWASP TOP 10/OWASP. A01. Hijack session/hijack photos",
     "OWASP TOP 10/OWASP. A01. Hijack session/OWASP A01 - Broken Access Control (Session Hijacking).md",
-    "OWASP TOP 10",
     "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics.md",
     "README.md",
     "OWASP TOP 10/OWASP.A01.IDOR/OWASP.A01.IDOR.md"
