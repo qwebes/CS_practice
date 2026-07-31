@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "C0lddBox/C0ldd photos/C0lddBox-1785482688957.webp"
+                "file": "Suricata/Suricata photos/Suricata-1785492707897.webp"
               },
               "icon": "lucide-image",
-              "title": "C0lddBox-1785482688957"
+              "title": "Suricata-1785492707897"
             }
           }
         ]
@@ -184,18 +184,21 @@
   },
   "active": "11ef2cbf2f0d5bec",
   "lastOpenFiles": [
+    "Suricata/Suricata.md",
+    "Suricata/Suricata photos",
+    "Suricata/Suricata photos/Suricata-1785492707897.webp",
+    "Suricata/Suricata photos/Suricata-1785492592190.webp",
+    "Suricata/Suricata photos/Suricata-1785492470361.webp",
+    "Suricata/Suricata photos/Suricata-1785492380480.webp",
+    "Suricata/Suricata photos/Suricata-1785491740346.webp",
+    "Suricata/Suricata photos/Suricata-1785491671666.webp",
+    "Suricata/Suricata photos/Suricata-1785491310421.webp",
+    "Suricata/Suricata photos/Suricata-1785491225430.webp",
+    "Suricata/Suricata photos/Suricata-1785490514523.webp",
+    "Suricata/Suricata photos/Suricata-1785490470780.webp",
+    "Suricata",
     "C0lddBox/C0lddBox.md",
     "C0lddBox/C0ldd photos",
-    "C0lddBox/C0ldd photos/C0lddBox-1785482688957.webp",
-    "C0lddBox/C0ldd photos/C0lddBox-1785482503462.webp",
-    "C0lddBox/C0ldd photos/C0lddBox-1785482004878.webp",
-    "C0lddBox/C0ldd photos/C0lddBox-1785481359381.webp",
-    "C0lddBox/C0ldd photos/C0lddBox-1785481284474.webp",
-    "C0lddBox/C0ldd photos/C0lddBox-1785481122254.webp",
-    "C0lddBox/C0ldd photos/C0lddBox-1785480909767.webp",
-    "C0lddBox/C0ldd photos/C0lddBox-1785480817051.webp",
-    "C0lddBox/C0ldd photos/C0lddBox-1785480690720.webp",
-    "C0lddBox/C0ldd photos/C0lddBox-1785480428989.webp",
     "CTF VM DeathNote/DeathNote..md",
     "C0lddBox",
     "CTF VM DeathNote/Death photos",
@@ -206,8 +209,6 @@
     "Juice Shop",
     "OWASP TOP 10/OWASP.A03.Injection/Injection photos",
     "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/Cryptograhpic photos",
-    "OWASP TOP 10/OWASP.A01.IDOR/IDOR photos",
-    "OWASP TOP 10/OWASP. A01. Hijack session/hijack photos",
     "OWASP TOP 10/OWASP. A01. Hijack session/OWASP A01 - Broken Access Control (Session Hijacking).md",
     "OWASP TOP 10/OWASP.A02.Cryptorahpic Failures/OWASP.A02.Cryptorahpic Failures. Crypto Basics.md",
     "README.md",
