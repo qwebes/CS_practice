@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e3248eb0b8bd8f84",
+        "id": "9c48a88e7b3a96b8",
         "type": "tabs",
         "children": [
           {
-            "id": "7af6e4d9a0e12cb8",
+            "id": "48b683acf4569350",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Suricata/Suricata photos/Suricata-1785492707897.webp"
-              },
-              "icon": "lucide-image",
-              "title": "Suricata-1785492707897"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Нова вкладка"
             }
           }
         ]
